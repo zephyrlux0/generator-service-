@@ -1,0 +1,5 @@
+flask
+python-dotenv
+fpdf2>=2.7.0
+openpyxl>=3.1.0
+python-pptx>=0.6.21
